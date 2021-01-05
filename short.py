@@ -4,7 +4,7 @@ import pyshorteners
 
 banner = pyfiglet.figlet_format("shorturl")
 print(Fore.GREEN + banner)
-print("Автор: @neoivan")
+print("Автор: @neo0089")
 
 url = str(input("Введите ссылку: "))
 
